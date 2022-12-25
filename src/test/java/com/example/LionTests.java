@@ -26,6 +26,3 @@ public class LionTests {
         Assert.assertEquals(testData.getArray(), lion.getFood());
     }
 }
-
-
-
