@@ -34,4 +34,3 @@ public class LionAlexTests {
         Assert.assertEquals(testData.getZeroKitten() ,lionAlex.getKittens());
     }
 }
-
