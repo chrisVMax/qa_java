@@ -29,3 +29,4 @@ public class AnimalTests {
         Assert.assertEquals(testData.getAnimalsFamilies(), animal.getFamily());
     }
 }
+

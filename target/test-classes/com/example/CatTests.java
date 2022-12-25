@@ -27,3 +27,4 @@ public class CatTests {
         Assert.assertEquals(testData.getArray(), cat.getFood());
     }
 }
+

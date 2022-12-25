@@ -22,3 +22,4 @@ public class FelineTests {
         Assert.assertEquals(testData.getOneKitten(), feline.getKittens());
     }
 }
+
