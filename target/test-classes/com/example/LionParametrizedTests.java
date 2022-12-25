@@ -30,8 +30,8 @@ public class LionParametrizedTests {
     @Test
     public void getLionSexTest() {
         try{
-           Lion lion = new Lion(sex, feline);
-           Assert.assertEquals(expected, lion.doesHaveMane());
+            Lion lion = new Lion(sex, feline);
+            Assert.assertEquals(expected, lion.doesHaveMane());
         } catch (Exception e) {
             Assert.assertTrue(e.toString().contains(testData.getException()));
         }
